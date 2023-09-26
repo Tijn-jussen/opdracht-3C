@@ -1,0 +1,98 @@
+
+
+
+
+
+body {
+
+    background-color: grey;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+.red, .oranje,.yellow,.green,.lightblue,.blue,.purple {
+
+
+
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    border: 5px solid #000000;
+    margin: 0 auto;
+    color: white
+
+    
+
+
+
+
+
+
+
+
+
+}
+.red {
+
+    background-color: red;
+
+
+
+
+
+}
+.oranje {
+    background-color: orange;
+
+
+
+
+    
+}
+.yellow{
+    background-color: yellow;
+
+
+
+    
+}
+.green {
+    background-color: green;
+
+
+
+
+    
+}
+.lightblue{
+    background-color: lightblue;
+
+
+
+
+    
+}
+.blue {
+    background-color: blue;
+
+
+
+
+    
+}
+.purple {
+    background-color: purple;
+
+
+}
